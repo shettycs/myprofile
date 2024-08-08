@@ -1,0 +1,42 @@
+.name{
+    text-align:center;
+    background-color:rgb(151, 125, 204);
+    font-weight: bold;
+    color: black;
+    margin: 5px;
+}
+.img{
+    margin: 10px;
+    background-color: rgb(255, 246, 127);
+    text-align: center;
+}
+.usn{
+    text-align: center;
+    font-size: large;
+    color: black;
+    background-color:rgb(151, 125, 204)
+}
+.sem{
+    text-align: center;
+    font-size: medium;
+    color: black;
+    background-color:rgb(151, 125, 204)
+}
+.skill{
+    text-align: center;
+    font-size: medium;
+    color: black;
+    background-color:rgb(151, 125, 204)
+}
+.phone{
+    text-align: center;
+    font-size: medium;
+    color: black;
+    background-color:rgb(151, 125, 204)
+}
+.address{
+    text-align: center;
+    font-size: medium;
+    color: black;
+    background-color:rgb(151, 125, 204)
+}
