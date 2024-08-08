@@ -1,3 +1,6 @@
+.html,body{
+    background-color:rgb(255,246,127);
+}
 .name{
     text-align:center;
     background-color:rgb(151, 125, 204);
@@ -7,7 +10,7 @@
 }
 .img{
     margin: 10px;
-    background-color: rgb(255, 246, 127);
+    background-color: rgb(151, 125, 204);
     text-align: center;
 }
 .usn{
